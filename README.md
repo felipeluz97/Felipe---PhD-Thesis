@@ -16,5 +16,6 @@ Informacoes de contato
 
 ## Acesso rápido
 
-- [Visualizar o grafico 3D interativo de trajetoria celular](https://github.com/felipeluz97/Felipe---PhD-Thesis/blob/gh-pages/cds_3d_plot_obj.html)
+- [Visualizar o grafico 3D interativo de trajetoria celular](https://felipeluz97.github.io/Felipe---PhD-Thesis/cds_3d_plot_obj.html)
+- Aqui voce pode selecionar as celulas de interesse da seguinte forma: Clicar 2 vezes na legenda lateral zera a selecao. Clicar uma vez em cada tipo celular adiciona as celulas no grafico 3D. Clicar novamente 2 vezes adiciona todos os tipos celulares. Fique a vontade para explorar!
 
