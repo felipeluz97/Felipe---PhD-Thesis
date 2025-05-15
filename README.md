@@ -10,7 +10,7 @@
 ## Acesso rápido
 
 - [Visualizar o grafico 3D interativo de trajetoria celular](https://github.com/felipeluz97/Felipe---PhD-Thesis/blob/main/cds_3d_plot_obj.html)
-- 
+
 
 ---
 
@@ -18,8 +18,8 @@
 
 Sinta-se à vontade para explorar o conteúdo e entrar em contato para dúvidas ou colaborações.
 
-Informacoes de contato: 
-Email: felipeluztorres@outlool.com
-LinkdIn: linkedin.com/in/felipe-luz-095287132
-Research Gate: https://www.researchgate.net/profile/Felipe-Luz-Torres-Silva
+-[Informacoes de contato] 
+[Email: felipeluztorres@outlool.com]
+[LinkdIn: linkedin.com/in/felipe-luz-095287132]
+[Research Gate: https://www.researchgate.net/profile/Felipe-Luz-Torres-Silva]
 ---
