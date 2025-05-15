@@ -9,7 +9,7 @@
 
 ## Acesso rápido
 
-- [Visualizar o grafico 3D interativo de trajetoria celular](https://github.com/felipeluz97/Felipe---PhD-Thesis/blob/main/cds_3d_plot_obj.html)
+- [Visualizar o grafico 3D interativo de trajetoria celular](https://github.com/felipeluz97/Felipe---PhD-Thesis/cds_3d_plot_obj.html)
 
 
 ---
