@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Bem-vindo ao repositório da minha tese de doutorado!</strong><br>
-  Aqui voce encontra as principais figuras referentes aos resultados obtidos e sus respectivas legendas
+  Aqui voce encontra as principais figuras referentes aos resultados obtidos e suas respectivas legendas
 
 Sinta-se à vontade para explorar o conteúdo e entrar em contato para dúvidas ou colaborações.
 
