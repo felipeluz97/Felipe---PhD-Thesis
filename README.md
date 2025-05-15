@@ -7,7 +7,7 @@
 Sinta-se à vontade para explorar o conteúdo e entrar em contato para dúvidas ou colaborações.
 
 Informacoes de contato 
-- Email: felipeluztorres@outlool.com
+- Email: felipeluztorres@outlook.com
 - LinkdIn: linkedin.com/in/felipe-luz-095287132
 - Research Gate: https://www.researchgate.net/profile/Felipe-Luz-Torres-Silva
 </p>
