@@ -1,6 +1,7 @@
 # Felipe---PhD-Thesis
- <strong>Investigação dos mecanismos moleculares subjacentes à sarcomatogênese óssea (pediátrica) <strong>
 <p align="center">
+ <strong>Investigação dos mecanismos moleculares subjacentes à sarcomatogênese óssea (pediátrica)<strong>
+
  Bem-vindo ao repositório da minha tese de doutorado!
  
   Aqui voce encontra as principais figuras referentes aos resultados obtidos e suas respectivas legendas
